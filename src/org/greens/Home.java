@@ -4,6 +4,7 @@ public class Home {
 
 	private void method1() {
 		// TODO Auto-generated method stub
+
 		System.out.println("test");
 		System.out.println("age is just a number");
 	}
@@ -33,5 +34,7 @@ public class Home {
 
 	private void method8() {
 		// TODO Auto-generated method stub
-	}
+	}	
+	private void method100() {
+		// TODO Auto-generated methodtub
 }
