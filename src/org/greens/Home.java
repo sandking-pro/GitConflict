@@ -12,4 +12,14 @@ public class Home {
 		System.out.println("test");
 		System.out.println("age is just a number");
 	}
+	private void method3() {
+		// TODO Auto-generated method stub
+		System.out.println("test");
+		System.out.println("age is just a number");
+	}
+	private void method4() {
+		// TODO Auto-generated method stub
+		System.out.println("test");
+		System.out.println("age is just a number");
+	}
 }
