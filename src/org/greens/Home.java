@@ -2,8 +2,8 @@ package org.greens;
 
 public class Home {
 	
-	private void method1() {
-		// TODO Auto-generated method stub
+	private void method100() {
+		// TODO Auto-generated methodtub
 		System.out.println("test");
 		System.out.println("age is just a number");
 	}
