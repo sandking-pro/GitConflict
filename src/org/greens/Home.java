@@ -5,7 +5,8 @@ public class Home {
 	private void method1() {
 		// TODO Auto-generated method stub
 
-		System.out.println("test");
+System.out.println("12345678");
+c=a+b;
 		System.out.println("age is just a number");
 	}
 
